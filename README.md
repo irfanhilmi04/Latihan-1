@@ -1,5 +1,5 @@
-<<<<<<< HEAD
 #Latihan1
+
 #Mengenal Version Control System (VCS)  
 VCS adalah sebuah sistem yang mencatat semua perubahan yang terjadi pada file atau 
 sekumpulan file seiring dengan terjadinya pergantian atau perubahan yang telah dilakukan, 
@@ -16,7 +16,3 @@ jadi kita dapat melihat versi spesifiknya kapan saja.
 7.Jika telah yakin dengan perubahannya, berikan catatan dengan menggunakan perintah 'git commit -m "catatan"'
 8.Membuat sambungan antara repository lokal dengan server dengan perintah 'git remote add origin '
 9.Mengirim perubahan ke server dengan perintah 'git push -u origin master'
-
-=======
-# Latihan-1
->>>>>>> fc81c45b80b3a51aba64a1b9e5f3e5551ba7e2c9
